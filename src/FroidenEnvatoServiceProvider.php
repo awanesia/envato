@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\Envato;
+namespace Awanesia\Envato;
 
 use Awanesia\Envato\Commands\MigrateCheckCommand;
 use Illuminate\Support\ServiceProvider;
