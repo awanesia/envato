@@ -1,4 +1,4 @@
-@php($envatoUpdateCompanySetting = \Froiden\Envato\Functions\EnvatoUpdate::companySetting())
+@php($envatoUpdateCompanySetting = \Awanesia\Envato\Functions\EnvatoUpdate::companySetting())
 
 @if(!is_null($envatoUpdateCompanySetting->supported_until))
     <div class="col-md-12" id="support-div">
@@ -26,7 +26,7 @@
     </div>
 @endif
 
-@php($updateVersionInfo = \Froiden\Envato\Functions\EnvatoUpdate::updateVersionInfo())
+@php($updateVersionInfo = \Awanesia\Envato\Functions\EnvatoUpdate::updateVersionInfo())
 @if(isset($updateVersionInfo['lastVersion']))
     <div class="alert alert-danger col-md-12">
         <p> @lang('messages.updateAlert')</p>

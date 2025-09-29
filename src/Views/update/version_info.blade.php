@@ -1,5 +1,5 @@
-@php($updateVersionInfo = \Froiden\Envato\Functions\EnvatoUpdate::updateVersionInfo())
-@php($envatoUpdateCompanySetting = \Froiden\Envato\Functions\EnvatoUpdate::companySetting())
+@php($updateVersionInfo = \Awanesia\Envato\Functions\EnvatoUpdate::updateVersionInfo())
+@php($envatoUpdateCompanySetting = \Awanesia\Envato\Functions\EnvatoUpdate::companySetting())
 <div class="table-responsive">
 
     <table class="table table-bordered">

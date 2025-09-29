@@ -1,7 +1,7 @@
 <?php
 
-use Froiden\Envato\Controllers\PurchaseVerificationController;
-use Froiden\Envato\Controllers\UpdateScriptVersionController;
+use Awanesia\Envato\Controllers\PurchaseVerificationController;
+use Awanesia\Envato\Controllers\UpdateScriptVersionController;
 use Illuminate\Support\Facades\Route;
 
 Route::group(['middleware' => 'web'], function () {

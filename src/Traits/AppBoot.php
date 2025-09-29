@@ -1,11 +1,11 @@
 <?php
 
-namespace Froiden\Envato\Traits;
+namespace Awanesia\Envato\Traits;
 
 use Carbon\Carbon;
-use Froiden\Envato\Functions\EnvatoUpdate;
-use Froiden\Envato\Helpers\FroidenApp;
-use Froiden\Envato\Helpers\Reply;
+use Awanesia\Envato\Functions\EnvatoUpdate;
+use Awanesia\Envato\Helpers\FroidenApp;
+use Awanesia\Envato\Helpers\Reply;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 use Illuminate\Http\Request;

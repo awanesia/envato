@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\Envato\Commands;
+namespace Awanesia\Envato\Commands;
 
 use Illuminate\Database\Console\Migrations\BaseCommand;
 

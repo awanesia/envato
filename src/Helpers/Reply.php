@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\Envato\Helpers;
+namespace Awanesia\Envato\Helpers;
 
 use Illuminate\Contracts\Validation\Validator;
 

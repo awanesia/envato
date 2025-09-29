@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\Envato\Middleware;
+namespace Awanesia\Envato\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;

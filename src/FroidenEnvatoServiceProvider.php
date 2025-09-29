@@ -2,7 +2,7 @@
 
 namespace Froiden\Envato;
 
-use Froiden\Envato\Commands\MigrateCheckCommand;
+use Awanesia\Envato\Commands\MigrateCheckCommand;
 use Illuminate\Support\ServiceProvider;
 
 class FroidenEnvatoServiceProvider extends ServiceProvider

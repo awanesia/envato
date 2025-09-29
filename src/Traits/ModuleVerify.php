@@ -1,10 +1,10 @@
 <?php
 
-namespace Froiden\Envato\Traits;
+namespace Awanesia\Envato\Traits;
 
-use Froiden\Envato\Functions\EnvatoUpdate;
-use Froiden\Envato\Helpers\FroidenApp;
-use Froiden\Envato\Helpers\Reply;
+use Awanesia\Envato\Functions\EnvatoUpdate;
+use Awanesia\Envato\Helpers\FroidenApp;
+use Awanesia\Envato\Helpers\Reply;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Schema;

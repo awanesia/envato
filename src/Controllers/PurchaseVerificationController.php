@@ -1,9 +1,9 @@
 <?php
 
-namespace Froiden\Envato\Controllers;
+namespace Awanesia\Envato\Controllers;
 
 use Illuminate\Routing\Controller;
-use Froiden\Envato\Traits\AppBoot;
+use Awanesia\Envato\Traits\AppBoot;
 
 class PurchaseVerificationController extends Controller
 {

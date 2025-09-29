@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\Envato\Helpers;
+namespace Awanesia\Envato\Helpers;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;

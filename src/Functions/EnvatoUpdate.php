@@ -1,8 +1,8 @@
 <?php
 
-namespace Froiden\Envato\Functions;
+namespace Awanesia\Envato\Functions;
 
-use Froiden\Envato\Helpers\FroidenApp;
+use Awanesia\Envato\Helpers\FroidenApp;
 use GuzzleHttp\Client;
 use Carbon\Carbon;
 use GuzzleHttp\Exception\GuzzleException;

@@ -1,11 +1,11 @@
 <?php
 
-namespace Froiden\Envato\Controllers;
+namespace Awanesia\Envato\Controllers;
 
 use App\Helper\Reply;
 use App\Http\Controllers\Controller;
-use Froiden\Envato\Functions\EnvatoUpdate;
-use Froiden\Envato\Helpers\FroidenApp;
+use Awanesia\Envato\Functions\EnvatoUpdate;
+use Awanesia\Envato\Helpers\FroidenApp;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Http\Request;
